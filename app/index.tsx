@@ -71,8 +71,8 @@ export default function login(){
       </View>
 
       <View style={styles.middleContent}>
-        <Text style={{ color: "white", fontSize: 25 }}>Welcome Back</Text>
-        <Text style={{ color: "white", fontSize: 18 }}>
+        <Text style={{ color: "white", fontSize: 25 ,fontWeight:'bold'}}>Welcome Back</Text>
+        <Text style={{ color: "gray", fontSize: 18 }}>
           Please Log into your existing account
         </Text>
       </View>
@@ -117,7 +117,7 @@ export default function login(){
         style={{
         marginTop: 20,
         backgroundColor: colors.btn,
-        width: "50%",
+        width: "80%",
         height: 58,
         justifyContent: "center",
         borderRadius: 20,
@@ -126,8 +126,8 @@ export default function login(){
     {loading ? (
         <ActivityIndicator />
     ) : (
-        <Text style={{ color: "white", textAlign: "center" }}>
-            Enviar
+        <Text style={{ color: "white", textAlign: "center",fontSize:25 }}>
+            Log in
         </Text>
     )}
     </TouchableOpacity> 
