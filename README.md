@@ -44,7 +44,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ---
 
-Desenvolvido com ❤️ por [Pedro Malcher](https://github.com/Snooway)
+Desenvolvido com ❤️ por [Pedro Malcher](https://github.com/Pedromallcher)
 
 
 
