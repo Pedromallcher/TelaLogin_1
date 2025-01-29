@@ -25,7 +25,7 @@ Esta tela de Login foi feita em **React Native / TypeScript** , template simples
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seuusuario/seuprojeto.git
+   https://github.com/Pedromallcher/TelaLogin_1.git
    ```
 2. Instale as dependências:
    ```sh
