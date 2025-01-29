@@ -108,6 +108,8 @@ export default function login(){
           placeholder="Your Password"
           placeholderTextColor={"white"}
           value={senha}
+          secureTextEntry={true}
+          keyboardType='numeric'
           onChangeText={setsenha}
         />
         <TouchableOpacity
